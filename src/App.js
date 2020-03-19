@@ -11,8 +11,8 @@ class App extends Component {
                 <div className="container">
                     <NavbarBrand href="/">NuCamp</NavbarBrand>
                 </div>
-                <Directory />
                 </Navbar>
+                <Directory />
             </div>
         );
     }
